@@ -1,0 +1,9 @@
+input, button {
+    width: 100%;
+}
+
+p.code {
+    white-space: pre-wrap;
+    font-family: monospace;
+    word-break: break-all;
+}
